@@ -1,0 +1,23 @@
+a{
+    color: white;
+    background-color: red;
+}
+
+.link1{
+    color: purple;
+    background-color: white;
+    font-size: 50px;
+}
+.conteiner{
+    border: 5px solid rgb(96, 58, 167);
+}
+.title{
+    color: darkblue;
+    font-size: 50px;
+    background-color: skyblue;
+}
+.link2{
+    color: red;
+    background-color: skyblue;
+    font-size: 75px;
+}
