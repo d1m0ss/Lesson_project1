@@ -13,11 +13,14 @@ a{
 }
 .title{
     color: darkblue;
-    font-size: 50px;
+    font-size: 45px;
     background-color: skyblue;
 }
 .link2{
     color: red;
     background-color: skyblue;
     font-size: 75px;
+}
+.ul1{
+    text-align-last: center;
 }
